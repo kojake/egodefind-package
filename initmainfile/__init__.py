@@ -1,0 +1,1 @@
+from egodefinedpackage.initmainfile import *
